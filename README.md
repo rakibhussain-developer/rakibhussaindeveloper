@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m Rakib Hussain, a  Web Developer & Meta Ads  Expert with 3+ years of experience.<br>💻 I build custom, SEO-friendly, mobile-responsive websites using WordPress, WooCommerce & Elementor.<br> to grow businesses.
+👋 I’m Rakib Hussain, a  Web Developer with 3+ years of experience.<br>💻 I build custom, SEO-friendly, mobile-responsive websites using WordPress, WooCommerce & Elementor.<br> to grow businesses.
 
 
 ## 🌐 Socials:
