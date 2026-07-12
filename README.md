@@ -1,44 +1,58 @@
 <div align="center">
-  
-  <h1>Hi there! I'm Rakib Hussain 👋</h1>
-  
-  <p><i><b>WordPress Developer & Digital Product Specialist</b></i></p>
 
-  <p>
-    Building high-performing, SEO-friendly, and mobile-responsive websites that help businesses thrive. 
-    Passionate about creating custom WordPress solutions and managing digital marketplaces.
-  </p>
+  <h1>Hi, I'm Rakib Hussain 👋</h1>
+  <p><i>Building digital experiences that matter.</i></p>
 
-  <h3>🔗 Quick Links</h3>
-  <p>
-    <a href="https://rakibdeveloper.pro.bd"><b>Portfolio Website</b></a> | 
-    <a href="https://themedokan.com"><b>ThemeDokan (Digital Products)</b></a> | 
-    <a href="https://youtube.com/@rakibhussain-developer"><b>YouTube Tutorials</b></a>
-  </p>
+  <br>
+
+  <a href="https://rakibdeveloper.pro.bd">
+    <img src="https://img.shields.io/badge/Portfolio-007AFF?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="https://themedokan.com">
+    <img src="https://img.shields.io/badge/ThemeDokan-Visit_Shop-FF3B30?style=for-the-badge&logo=shopify&logoColor=white">
+  </a>
+  <a href="https://youtube.com/@rakibhussain-developer">
+    <img src="https://img.shields.io/badge/YouTube-Tutorials-ff0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
 </div>
 
-<hr>
+<br>
 
-<h3>👨‍💻 About Me</h3>
-<ul>
-  <li>🚀 <b>Experience:</b> 3+ years of professional web development.</li>
-  <li>🛠 <b>Specialization:</b> Custom WordPress, WooCommerce, and Elementor design.</li>
-  <li>📦 <b>Digital Products:</b> Creator & Manager of <b>ThemeDokan</b> – your go-to destination for readymade web solutions.</li>
-  <li>🎥 <b>Content Creation:</b> Sharing my knowledge and technical insights on my <a href="https://youtube.com/@rakibhussain-developer">YouTube Channel</a>.</li>
-</ul>
+---
 
-<h3>💻 Tech Stack</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elementor-E91E63?style=for-the-badge&logo=elementor&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+### 👨‍💻 About Me
+With **3+ years of professional experience**, I am a passionate **WordPress Developer & Digital Product Specialist**. I bridge the gap between creative UI/UX design and robust technical execution to build high-converting, mobile-first websites.
 
-<h3>📊 GitHub Stats</h3>
+*   📦 **ThemeDokan:** Founder & Manager of a digital marketplace providing readymade, high-quality web solutions.
+*   🎥 **YouTube Content:** I document my development workflows and share tutorials to help fellow developers grow.
+*   🎯 **Specialization:** Custom WordPress, WooCommerce, Elementor, and seamless Payment Gateway integrations.
+
+<br>
+
+<div align="center">
+  <a href="https://themedokan.com">
+    <img src="https://img.shields.io/badge/🛒_Explore_ThemeDokan_Products-8A2BE2?style=for-the-badge&logo=shopify&logoColor=white">
+  </a>
+</div>
+
+<br>
+
+### 🛠 Tech Stack & Tools
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=wordpress,woocommerce,elementor,php,html,css,js,mysql,git,vscode,figma,postman" />
 </p>
+
+<br>
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakibhussain-developer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibhussain-developer&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+
+<br>
+
+<div align="center">
+  <p><i>Thanks for visiting! Let's build something amazing together.</i></p>
+  <img src="https://komarev.com/ghpvc/?username=Rakibhussain-developer&label=Profile%20Views&color=0e75b6&style=flat" />
+</div>
